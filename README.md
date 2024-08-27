@@ -1,4 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+![Banner3](https://github.com/user-attachments/assets/194c9ae4-02f3-400e-b295-ae49290f7b92)
+
 <h1 align="center">Hi 👋, I'm Anupam Sharma</h1>
 <h3 align="center">Android Enthusiast || A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
