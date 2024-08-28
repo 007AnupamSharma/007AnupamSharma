@@ -1,5 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 ![Banner3](https://github.com/user-attachments/assets/194c9ae4-02f3-400e-b295-ae49290f7b92)
+![banner2](https://github.com/user-attachments/assets/a0e32724-40c5-40df-b5bf-def4d3f8e592)
 
 [![Skills](https://skillicons.dev/icons?i=gcp,react,bootstrap,c,cpp,css,express,figma,fastapi,firebase,git,html,java,js,jquery,materialui,mongodb,mysql,netlify,nodejs,npm,notion,ps,php,postman,pr,redis,redux,tailwind,threejs,vercel,vite,flutter,dart,webpack&perline=15)](https://github.com/007AnupamSharma)
 
