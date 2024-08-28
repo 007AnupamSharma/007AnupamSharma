@@ -4,7 +4,7 @@
 
 [![Skills](https://skillicons.dev/icons?i=gcp,react,bootstrap,c,cpp,css,express,figma,fastapi,firebase,git,html,java,js,jquery,materialui,mongodb,mysql,netlify,nodejs,npm,notion,ps,php,postman,pr,redis,redux,tailwind,threejs,vercel,vite,flutter,dart,webpack&perline=15)](https://github.com/007AnupamSharma)
 
-
+[![](https://visitcount.itsvg.in/api?id=007AnupamSharma&icon=2&color=12)](https://github.com/007AnupamSharma)
 
 ![Banner1 (1)](https://github.com/user-attachments/assets/db9cefc4-c2b7-4487-9bd7-aa293af78ec0)
 
