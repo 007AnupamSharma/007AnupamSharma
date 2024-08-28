@@ -1,6 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 ![Banner3](https://github.com/user-attachments/assets/194c9ae4-02f3-400e-b295-ae49290f7b92)
-![Banner1](https://github.com/user-attachments/assets/e2ea95ce-e983-42ba-b960-b3c6be0c5193)
+![Banner1 (1)](https://github.com/user-attachments/assets/db9cefc4-c2b7-4487-9bd7-aa293af78ec0)
+
 
 <h1 align="center">Hi 👋, I'm Anupam Sharma</h1>
 <h3 align="center">Android Enthusiast || A passionate frontend developer from India</h3>
