@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+![Banner3 (2)](https://github.com/user-attachments/assets/69c510b2-aed0-4614-8dd2-14cf355b9305)
 ![Banner3](https://github.com/user-attachments/assets/194c9ae4-02f3-400e-b295-ae49290f7b92)
 ![banner2](https://github.com/user-attachments/assets/a0e32724-40c5-40df-b5bf-def4d3f8e592)
 
